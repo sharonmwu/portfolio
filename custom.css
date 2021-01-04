@@ -66,4 +66,5 @@ nav{
         .description{
              text-align: justify;
                 text-justify: inter-word;
+            font-weight:500;
 }
