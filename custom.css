@@ -65,3 +65,17 @@ nav{
                 text-justify: inter-word;
             font-weight:500;
 }
+
+        h6{
+          padding-top: 50px;
+          font-size: 14px;
+        }
+
+        .carousel-control-prev{
+          margin: -45px;
+        }
+
+        .carousel-control-next{
+          margin: -45px;
+        }
+   
